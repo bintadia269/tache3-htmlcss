@@ -1,0 +1,117 @@
+.container{
+	color: white;
+	background-color: black;
+	width:260px;
+	height:499px;
+	padding:38px;
+	text-align: center;
+}
+.form{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.formu,.formu1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+img{
+	height:570px;
+	width:332px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h1{
+	font-size: 20px;
+}
+.lab2{
+	color: #cf755e;
+}
+input{
+	border-left: none;
+	border-right: none;
+	border-top:none; 
+	background-color: black;
+	width: 160px;
+	width: 258px;
+}
+.input2{
+	border-left: none;
+	border-right: none;
+	border-top:none; 
+	background-color: black;
+	border-color: #cf755e;
+
+}
+.input3{
+	border-left: none;
+	border-right: none;
+	border-top:none; 
+	background-color: black;
+}
+.lab1,.lab2{
+	position:relative;
+	right: 100px;
+}
+.lab3{
+	position:relative;
+	right: 76px;
+}
+.label1{
+	position:relative;
+	right: 90px;
+}
+
+select{
+	border-left: none;
+	border-right: none;
+	border-top:none; 
+	border-color: white;
+	width: 260px;
+	background-color: black;
+	color: white;
+
+}
+.p2{
+	color:  #cf755e;
+}
+button{
+	border-style: none;
+	color: white;
+	background-color: #cf755e;;
+	height: 40px;
+	width: 90px;
+}
+.button1{
+	width:30px;
+	height: 30px;
+	border-radius: 30px;
+	background-color: white;
+	color: black;
+}
+.button2 {
+	width: 100px;
+	height: 40px;
+	border-radius: 30px;
+	background-color:#cf755e;
+	color: black;
+
+}
+ .button2 .span1	{
+	width: 120px;
+	height: 20px;
+	border-radius: 30px;
+	background-color:black;
+	color:  white;
+	padding: 10px;
+}
+.div1{
+    display:inline-flex;
+    grid-gap: 13px;
+
+}
+.div2{
+display:inline-flex;
+}
